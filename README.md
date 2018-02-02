@@ -11,7 +11,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/SDustDreams/she
 
 - SSR安装 
 
-- BBR算法加速 最新内核
+- BBR算法+最新内核
 
 - aria2后端搭建 
 
